@@ -14,7 +14,7 @@ Udacity has several good courses, including [JavaScript Basics](https://www.udac
 
 [Codecademy](https://www.codecademy.com/) is another good resource for complete beginners. We recommend [HTML & CSS](https://www.codecademy.com/learn/web), [Make a Website](https://www.codecademy.com/en/skills/make-a-website), [JavaScript](https://www.codecademy.com/learn/javascript) and the [YouTube API](https://www.codecademy.com/en/tracks/youtube).
 
-[Eloquent Javascript](http://eloquentjavascript.net/Eloquent_JavaScript.pdf) is a great self-contained introduction to Javascript. The first 4 chapters are relatively easy to follow. Subsequent chapters cover more advanced topics.
+[Eloquent Javascript](http://eloquentjavascript.net/) is a great self-contained introduction to Javascript. The first 4 chapters are relatively easy to follow. Subsequent chapters cover more advanced topics.
 
 [Internet History, Technology, and Security](https://www.coursera.org/learn/internet-history) on Coursera provides a nice bit of historical context.
 
