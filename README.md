@@ -8,7 +8,7 @@ A collection of recommended study materials for people thinking of applying for 
 
 [Codewars](http://www.codewars.com/?language=javascript) is fantastic for honing your JavaScript skills.
 
-Udacity has several good courses, including [JavaScript Basics](https://www.udacity.com/course/javascript-basics--ud804) and [How to Use Git and GitHub](https://www.udacity.com/course/how-to-use-git-and-github--ud775).
+[Udacity](https://www.udacity.com) has several good courses, including [JavaScript Basics](https://www.udacity.com/course/javascript-basics--ud804) and [How to Use Git and GitHub](https://www.udacity.com/course/how-to-use-git-and-github--ud775).
 
 [Khan Academy](https://www.khanacademy.org/computing) is an excellent resource for complete beginners. We love their introduction to Computer Science as well as their JavaScript-based programming course.
 
@@ -28,7 +28,7 @@ Udacity has several good courses, including [JavaScript Basics](https://www.udac
 
 [Typing Club](https://www.typingclub.com/) is good (and free). It would help greatly for you to be a relatively quick typist. 
 
-Finally, sign up to Stack Overflow and look at some answers given for Javascript questions. The community can be a little intolerant of duplicated questions, but it is really worth the effort of trying to ask (or even answer!) some questions yourself.
+Finally, sign up to [Stack Overflow](https://stackoverflow.com) and look at some answers given for Javascript questions. The community can be a little intolerant of duplicated questions, but it is really worth the effort of trying to ask (or even answer!) some questions yourself.
 
 **Reading**  
 [Paul Ford - What is Code?](http://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/) is a great article about his impression of the tech industry and the life of a programmer. It's long, but quite light to read.
